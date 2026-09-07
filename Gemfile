@@ -10,3 +10,11 @@ gem "jekyll-feed"
 
 # Platform dependencies
 gem "webrick", "~> 1.7"
+
+# after 4.0
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+
+gem "tzinfo"        # 时区处理
+gem "tzinfo-data"   # Windows 平台需要这个数据包
