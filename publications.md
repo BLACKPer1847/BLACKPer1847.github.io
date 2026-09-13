@@ -9,86 +9,49 @@ title: 作品集
 
   <div class="publication-card">
     <div class="publication-thumb">
-      <img src="/images/papers/paper1.svg" alt="Innovative covariance-based framework">
-      <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" class="publication-overlay" target="_blank" rel="noopener">
+      <img src="/images/papers/line.png" alt="Kina Maps Project">
+      <a href="/publications/project-9900/" class="publication-overlay" target="_blank" rel="noopener">
         <span>查看细节</span>
       </a>
     </div>
     <div class="publication-info">
       <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" target="_blank" rel="noopener">Innovative covariance-based framework: symmetry assessment and exponentiality testing under multiplicative distortion measurement Errors</a>
+        <a href="/publications/project-9900/" target="_blank" rel="noopener">数据仓储管理系统</a>
       </div>
-      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang, Jiongtao Zhong</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Simulation and Computation, 2026</span> <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, first author</div>
+      <div class="publication-authors"><strong class="author-highlight">Zhaoyuan Xu</strong>, Lu Zhang, Han Bao, Yuchen Wang, Chi Man Fu</div>
+      <div class="publication-conference"><span class="pub-venue"></span> <a href="/publications/project-9900/" target="_blank">[相关截图和报告]</a></div>
+      <div class="publication-details">前端负责人</div>
     </div>
   </div>
 
   <div class="publication-card">
     <div class="publication-thumb">
-      <img src="/images/papers/paper2.svg" alt="A New Logarithmic Multiplicative Distortion">
-      <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" class="publication-overlay" target="_blank" rel="noopener">
-        <span>查看细节</span>
+      <img src="/images/papers/Hamster.png" alt="UE Game">
+      <a href="https://drive.google.com/drive/folders/1Kso2G-yHmuZwRNfWsCkuCDw2hempk9X0?usp=drive_link" class="publication-overlay" target="_blank" rel="noopener">
+        <span>获取Demo和源码</span>
       </a>
     </div>
     <div class="publication-info">
       <div class="publication-title">
-        <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" target="_blank" rel="noopener">A New Logarithmic Multiplicative Distortion for Correlation Analysis</a>
+        <a href="https://drive.google.com/drive/folders/1Kso2G-yHmuZwRNfWsCkuCDw2hempk9X0?usp=drive_link" target="_blank" rel="noopener">UE游戏项目：仓鼠球</a>
       </div>
       <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang</div>
-      <div class="publication-conference"><span class="pub-venue">Statistical Analysis and Data Mining, 2024</span> <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, JCR: Q1, first author, Top Cited Article - WILEY 2025</div>
+      <div class="publication-conference"><span class="pub-venue">访问我的谷歌云盘以下载试玩Demo及项目文件</span> <a href="https://drive.google.com/drive/folders/1Kso2G-yHmuZwRNfWsCkuCDw2hempk9X0?usp=drive_link" target="_blank">[谷歌云盘]</a></div>
+      <div class="publication-details">项目负责人 & 核心开发</div>
     </div>
   </div>
 
   <div class="publication-card">
     <div class="publication-thumb">
-      <img src="/images/papers/paper3.svg" alt="A Revisit to Pearson Correlation Coefficient">
-      <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" class="publication-overlay" target="_blank" rel="noopener">
-        <span>查看细节</span>
-      </a>
+      <img src="/images/papers/Mercury.jpg" alt="Mercury Project">
     </div>
     <div class="publication-info">
       <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" target="_blank" rel="noopener">A Revisit to Pearson Correlation Coefficient under Multiplicative Distortions</a>
+        <a target="_blank" rel="noopener">私人网站Mercury</a>
       </div>
-      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang, Yingcong Huang, Jiongtao Zhong & Xiaozhen Yang</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Simulation and Computation, 2024</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, first author, Highly Cited Paper - Web of Science</div>
-    </div>
-  </div>
-
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper4.svg" alt="Covariance Ratio under Multiplicative Distortion">
-      <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" class="publication-overlay" target="_blank" rel="noopener">
-        <span>查看细节</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" target="_blank" rel="noopener">Covariance Ratio under Multiplicative Distortion Measurement Errors</a>
-      </div>
-      <div class="publication-authors">Jiongtao Zhong, <strong class="author-highlight">Siming Deng</strong>, Jun Zhang & Zhenghui Feng</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Theory and Methods, 2023</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, 2nd-author</div>
-    </div>
-  </div>
-
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper5.svg" alt="Estimation of Correlation Coefficient">
-      <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" class="publication-overlay" target="_blank" rel="noopener">
-        <span>查看细节</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" target="_blank" rel="noopener">Estimation of Correlation Coefficient with Monotone Transformation and Multiplicative Distortions</a>
-      </div>
-      <div class="publication-authors">Jun Zhang, Xuan Yu, <strong class="author-highlight">Siming Deng</strong>, Jiongtao Zhong, Yisheng Zhou & Bingqing Lin</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Theory and Methods, 2023</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, 3rd-author</div>
+      <div class="publication-authors"><strong class="author-highlight">Zhaoyuan Xu</strong></div>
+      <div class="publication-conference"><span class="pub-venue">项目推进中，暂无预览</span> <a target="_blank">[推进中]</a></div>
+      <div class="publication-details">私人站点</div>
     </div>
   </div>
 
