@@ -11,21 +11,16 @@ owner:
   avatar: avatar.jpg
   email: blackper1847@gmail.com
   github: BLACKPer1847
-  linkedin: larry-deng-317b92360
-  scholar: https://scholar.google.com/citations?hl=en&user=aKyLtgsAAAAJ
-  researchgate: https://www.researchgate.net/profile/Siming-Deng-3
 
 # https://search.google.com/search-console/ownership
 google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # Links to include in top navigation
 links:
-  - title: About Me
+  - title: 关于我
     url: /
-  - title: Publications
+  - title: 作品集
     url: /publications/
-  - title: Beyond Research
-    url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai

@@ -2,90 +2,143 @@
 layout: page
 ---
 
-# About Me
+# 个人简介
 
 
 
-Here is **Zhaoyuan Xu**.<br>
+我叫 **徐兆源（Black）**.<br>
 
-I am a graduate student in the School of [Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering) of the **The University of New South Wales**. <br>
+是毕业于**新南威尔士大学**[计算机科学与工程学院](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)的硕士毕业生。 <br>
 
-## Work Experience
+是一名兼具**技术开发、游戏策划与财务管理**三重背景的复合型人才。本科财务、硕士计算机的跨学科经历，让我塑造了**严谨的逻辑思维与系统化的问题解决能力**。<br>
+
+在游戏行业实习期间，我以**系统策划身份完成多模块设计与交付**，积累了产品思维与团队协作经验。**硕士期间则带队开发UE5游戏项目**，从零搭建完整游戏框架并获评HD等级，验证了从概念到落地的全流程把控能力。此外，我还在**企业级数据平台项目中担任前端负责人**，直面客户需求，参与并完成了从架构设计到最终交付的全链路开发。<br>
+
+
+## 关键节点
 
 <div class="timeline">
   <div class="timeline-progress" id="timeline-progress"></div>
 
   <div class="timeline-item timeline-item--current">
     <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/apple.svg" alt="Apple">
+      <img src="/images/logo/unsw.svg" alt="UNSW">
     </div>
     <div class="timeline-card">
       <div class="timeline-header">
-        <div class="timeline-role">Software Engineer <span class="timeline-sep">|</span> <span class="timeline-company">Apple Inc.</span></div>
-        <span class="timeline-time">Jan. 2026 - Present</span>
+        <div class="timeline-role">信息技术硕士毕业生 <span class="timeline-sep">|</span> <span class="timeline-company">UNSW Sydney</span></div>
+        <span class="timeline-time">2026.09</span>
       </div>
       <div class="timeline-details">
-        Developed AI agent tools for iPhone hardware testing, enhancing automated diagnostics workflows and improving large-scale test efficiency.
+        作为 
+        <span style="font-weight:bold;"> Master of Information Technology</span> 
+        毕业，在校期间涉及的课程包括：数据库基础，Python，离散数学，计算机图形学，C++进阶，图论进阶，机器学习。
       </div>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/upenn.svg" alt="UPenn">
+      <img src="/images/logo/knia_maps.png" alt="Knia Maps">
     </div>
     <div class="timeline-card">
       <div class="timeline-header">
-        <div class="timeline-role">Research Assistant <span class="timeline-sep">|</span> <span class="timeline-company">University of Pennsylvania</span></div>
-        <span class="timeline-time">Nov. 2025 - Jan. 2026</span>
+        <div class="timeline-role">前端程序负责人 <span class="timeline-sep">|</span> <span class="timeline-company">数据仓储系统</span></div>
+        <span class="timeline-time">2026.02-2026.09</span>
       </div>
       <div class="timeline-details">
-        ViT-driven image geolocation.
+        作为毕业项目，和<a href="https://kniamaps.com/">Knia Maps</a>合作搭建了一套数据库数据的仓储与转化系统。作为团队中的前端程序负责人进行前端开发，同时负责每周与客户进行例行汇报演示并获取反馈。
       </div>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/sf.svg" alt="SF Express">
+      <img src="/images/logo/UE.svg" alt="UE">
     </div>
     <div class="timeline-card">
       <div class="timeline-header">
-        <div class="timeline-role">Software Engineer <span class="timeline-sep">|</span> <span class="timeline-company">SF Express</span></div>
-        <span class="timeline-time">May. 2025 - Jul. 2025</span>
+        <div class="timeline-role">项目负责人与核心开发 <span class="timeline-sep">|</span> <span class="timeline-company">UE5游戏项目</span></div>
+        <span class="timeline-time">2025.09-2025.12</span>
       </div>
       <div class="timeline-details">
-        Delivered microservice modules for the order management system.
+        作为项目负责人与核心开发领导小组直至落地。协助队友确定整体框架，独立进行核心玩法和主要系统开发，并作为小组代表定时向导师汇报工作进度。
       </div>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/boc.svg" alt="Bank of China">
+      <img src="/images/logo/unsw.svg" alt="UNSW">
     </div>
     <div class="timeline-card">
       <div class="timeline-header">
-        <div class="timeline-role">Software Engineer <span class="timeline-sep">|</span> <span class="timeline-company">Bank of China</span></div>
-        <span class="timeline-time">Jul. 2024 - Sep. 2024</span>
+        <div class="timeline-role">信息技术硕士入学 <span class="timeline-sep">|</span> <span class="timeline-company">UNSW Sydney</span></div>
+        <span class="timeline-time">2024.09</span>
       </div>
       <div class="timeline-details">
-        Involved in the deployment and fine-tuning of large language models in internal banking systems.
+        入学新南威尔士大学（University of New South Wales）。
       </div>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/szu.svg" alt="Shenzhen University">
+      <img src="/images/logo/IELT.svg" alt="IELT">
     </div>
     <div class="timeline-card">
       <div class="timeline-header">
-        <div class="timeline-role">Research Assistant <span class="timeline-sep">|</span> <span class="timeline-company"><a href="https://bdsc.szu.edu.cn/">Big Data Institute, Shenzhen University</a></span></div>
-        <span class="timeline-time">2023 - 2024</span>
+        <div class="timeline-role">自我提升时期 <span class="timeline-sep">|</span> <span class="timeline-company"></span></div>
+        <span class="timeline-time">2023.06-2024.08</span>
       </div>
       <div class="timeline-details">
-        Supervised by Distinguished Professor <a href="https://dblp.org/pid/h/JoshuaZhexueHuang.html">Joshua Zhexue Huang</a>. Carried out optimizations on data processing and clustering algorithms by leveraging distributed approximate computing techniques.
+        自学编程并备考语言，准备赴澳攻读IT硕士。<br>
+        雅思成绩7.0，期间抽空学习第二外语日语并考取N2证书。
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot" style="background: #ff0000;">
+      <img src="/images/logo/ruiyi.png" alt="睿益">
+    </div>
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">审计助理 <span class="timeline-sep">|</span> <span class="timeline-company">上海睿益会计师事务所</span></div>
+        <span class="timeline-time">2022.12-2023.05</span>
+      </div>
+      <div class="timeline-details">
+        作为审计助理参与固定资产盘查工作，后协助其他审计员进行审计的同时参与企业代理记账业务。
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot" style="background: #ffffff;">
+      <img src="/images/logo/unsw.svg" alt="UNSW">
+    </div>
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">财务管理学士毕业生 <span class="timeline-sep">|</span> <span class="timeline-company">上海海事大学</span></div>
+        <span class="timeline-time">2022</span>
+      </div>
+      <div class="timeline-details">
+        于<a href="https://www.shmtu.edu.cn/">上海海事大学</a>获得财务管理学士学位。
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot" style="background: #ffffff;">
+      <img src="/images/logo/yinke.jpg" alt="硬壳">
+    </div>
+    <div class="timeline-card">
+      <div class="timeline-header">
+        <div class="timeline-role">游戏策划实习 <span class="timeline-sep">|</span> <span class="timeline-company">上海硬壳网络</span></div>
+        <span class="timeline-time">2021.08-2021.09</span>
+      </div>
+      <div class="timeline-details">
+        作为执行策划进行工作，参与出海项目落地。同时负责过一部分活动的日程管理以及关卡地编。
       </div>
     </div>
   </div>
@@ -139,176 +192,35 @@ I am a graduate student in the School of [Computer Science and Engineering](http
 })();
 </script>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - siming_deng_stat [at] 163.com
 
-**<font color="#990000">Seeking Software Engineer and Machine Learning roles — AI Infrastructure, Applied AI / Agents, and ML Systems. Feel free to reach out!</font>**
+当前求职方向为前端、测开、运维及游戏开发/策划相关岗位，我希望能将自己的技术能力与产品思维相结合，在实战中持续创造价值。
 
----
+**常用联系邮箱为： blackper1847@gmail.com**
 
-## Publications
-
-<div class="publications-grid">
-
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper1.svg" alt="Innovative covariance-based framework">
-      <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" class="publication-overlay" target="_blank" rel="noopener">
-        <span>View Paper</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" target="_blank" rel="noopener">Innovative covariance-based framework: symmetry assessment and exponentiality testing under multiplicative distortion measurement Errors</a>
-      </div>
-      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang, Jiongtao Zhong</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Simulation and Computation, 2026</span> <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, first author</div>
-    </div>
-  </div>
-
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper2.svg" alt="A New Logarithmic Multiplicative Distortion">
-      <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" class="publication-overlay" target="_blank" rel="noopener">
-        <span>View Paper</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" target="_blank" rel="noopener">A New Logarithmic Multiplicative Distortion for Correlation Analysis</a>
-      </div>
-      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang</div>
-      <div class="publication-conference"><span class="pub-venue">Statistical Analysis and Data Mining, 2024</span> <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, JCR: Q1, first author, Top Cited Article - WILEY 2025</div>
-    </div>
-  </div>
-
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper3.svg" alt="A Revisit to Pearson Correlation Coefficient">
-      <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" class="publication-overlay" target="_blank" rel="noopener">
-        <span>View Paper</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" target="_blank" rel="noopener">A Revisit to Pearson Correlation Coefficient under Multiplicative Distortions</a>
-      </div>
-      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang, Yingcong Huang, Jiongtao Zhong & Xiaozhen Yang</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Simulation and Computation, 2024</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2333352" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, first author, Highly Cited Paper - Web of Science</div>
-    </div>
-  </div>
-
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper4.svg" alt="Covariance Ratio under Multiplicative Distortion">
-      <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" class="publication-overlay" target="_blank" rel="noopener">
-        <span>View Paper</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" target="_blank" rel="noopener">Covariance Ratio under Multiplicative Distortion Measurement Errors</a>
-      </div>
-      <div class="publication-authors">Jiongtao Zhong, <strong class="author-highlight">Siming Deng</strong>, Jun Zhang & Zhenghui Feng</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Theory and Methods, 2023</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2295240" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, 2nd-author</div>
-    </div>
-  </div>
-
-  <div class="publication-card">
-    <div class="publication-thumb">
-      <img src="/images/papers/paper5.svg" alt="Estimation of Correlation Coefficient">
-      <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" class="publication-overlay" target="_blank" rel="noopener">
-        <span>View Paper</span>
-      </a>
-    </div>
-    <div class="publication-info">
-      <div class="publication-title">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" target="_blank" rel="noopener">Estimation of Correlation Coefficient with Monotone Transformation and Multiplicative Distortions</a>
-      </div>
-      <div class="publication-authors">Jun Zhang, Xuan Yu, <strong class="author-highlight">Siming Deng</strong>, Jiongtao Zhong, Yisheng Zhou & Bingqing Lin</div>
-      <div class="publication-conference"><span class="pub-venue">Communications in Statistics - Theory and Methods, 2023</span> <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2288794" target="_blank">[paper]</a></div>
-      <div class="publication-details">SCI, 3rd-author</div>
-    </div>
-  </div>
-
-</div>
-
-<script>
-(function() {
-  if ('IntersectionObserver' in window) {
-    var observer = new IntersectionObserver(function(entries) {
-      entries.forEach(function(entry) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('animate-in');
-          observer.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
-    document.querySelectorAll('.publication-card').forEach(function(card) {
-      observer.observe(card);
-    });
-  } else {
-    document.querySelectorAll('.publication-card').forEach(function(card) {
-      card.classList.add('animate-in');
-    });
-  }
-})();
-</script>
 
 ---
 
-## Research Interests
-
-- ML Systems & AI Infrastructure
-- Efficient & On-Device Inference (Apple MLX, SGLang)
-- Agentic AI (multi-agent orchestration & tool use)
-- Machine Learning
-- Nonparametric Statistics
-
-I currently work at the intersection of **AI infrastructure and applied ML**, building agent runtimes and optimizing LLM inference.
-
-Previously, my research centered on **nonparametric statistics** and **measurement-error modeling**, unobservable-variable estimation under multiplicative distortion frameworks, where I developed calibration methods and simulation studies to improve correlation-coefficient estimation in complex industrial settings, resulting in five SCI publications.
-<img src="/images/sunset.jpg">
-
----
-
-## News and Updates
+## 最新进展
 
 <div class="news-grid">
   <div class="news-card news-card--publication">
     <div class="news-meta">
-      <span class="news-date">February 2026</span>
-      <span class="news-tag news-tag--publication">Publication</span>
+      <span class="news-date">2026.09</span>
+      <span class="news-tag news-tag--publication">项目相关</span>
     </div>
-    <p>First-Author Paper: <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000"><strong>Innovative covariance-based framework: symmetry assessment and exponentiality testing under multiplicative distortion measurement Errors</strong></a> Now Officially Published in <a href="https://www.tandfonline.com/journals/lssp20">Communications in Statistics - Simulation and Computation</a></p>
+    <p>
+    正在着手搭建个人项目网站，腾讯云服务器已经配置完毕，后端代码编写中。
+    </p>
   </div>
 
   <div class="news-card news-card--milestone">
     <div class="news-meta">
-      <span class="news-date">Jan 2026</span>
-      <span class="news-tag news-tag--milestone">Milestone</span>
+      <span class="news-date">2026.09</span>
+      <span class="news-tag news-tag--milestone">里程碑</span>
     </div>
-    <p>Excited to have received an offer from Apple!</p>
+    <p>满足UNSW毕业要求，获得了完成信。</p>
   </div>
 
-  <div class="news-card news-card--milestone">
-    <div class="news-meta">
-      <span class="news-date">March 2025</span>
-      <span class="news-tag news-tag--milestone">Milestone</span>
-    </div>
-    <p>Thrilled to have received an offer from UPenn Engineering!</p>
-  </div>
-
-  <div class="news-card news-card--publication">
-    <div class="news-meta">
-      <span class="news-date">August 2024</span>
-      <span class="news-tag news-tag--publication">Publication</span>
-    </div>
-    <p>First-Author Paper: <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708"><strong>A New Logarithmic Multiplicative Distortion for Correlation Analysis</strong></a> Now Officially Published in <a href="https://onlinelibrary.wiley.com/journal/19321872">Statistical Analysis and Data Mining</a> (JCR Q1)</p>
-  </div>
 </div>
 
 <script>
