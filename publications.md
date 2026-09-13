@@ -35,7 +35,7 @@ title: 作品集
       <div class="publication-title">
         <a href="https://drive.google.com/drive/folders/1Kso2G-yHmuZwRNfWsCkuCDw2hempk9X0?usp=drive_link" target="_blank" rel="noopener">UE游戏项目：仓鼠球</a>
       </div>
-      <div class="publication-authors"><strong class="author-highlight">Siming Deng</strong>, Jun Zhang</div>
+      <div class="publication-authors"><strong class="author-highlight">Zhaoyuan Xu</strong>, Weihang Wang, Ruojin Zhou, Linghan Wangh</div>
       <div class="publication-conference"><span class="pub-venue">访问我的谷歌云盘以下载试玩Demo及项目文件</span> <a href="https://drive.google.com/drive/folders/1Kso2G-yHmuZwRNfWsCkuCDw2hempk9X0?usp=drive_link" target="_blank">[谷歌云盘]</a></div>
       <div class="publication-details">项目负责人 & 核心开发</div>
     </div>
